@@ -1,0 +1,12 @@
+# Utils
+__utils
+
+# Python cache
+*.pyc
+*__pycache__*
+
+# Database
+*.sqlite3
+
+# Git
+.git
